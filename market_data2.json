@@ -1,0 +1,26 @@
+[
+      {
+        "JobTitle": "Business Operation Specialist",
+        "Function": "Business Operation",
+        "Subfunction": "General",
+        "CareerStep": "C05",
+        "WTWCode": "AGA000-08",
+        "P50": "200,000"
+      },
+      {
+        "JobTitle": "Business Planner Manager",
+        "Function": "Business Operation",
+        "Subfunction": "Business Planning and Analysis",
+        "CareerStep": "M05",
+        "WTWCode": "ACD000-12",
+        "P50": "250,000"
+      },
+      {
+        "JobTitle": "Assistant Engineer",
+        "Function": "Capability",
+        "Subfunction": "Engineering",
+        "CareerStep": "E07",
+        "WTWCode": "AZE050-10",
+        "P50": "300,000"
+      }
+]
